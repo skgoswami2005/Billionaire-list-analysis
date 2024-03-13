@@ -17,3 +17,11 @@ Here is list of top 10 billionaires by net worth.
 From the graph we can observe that **Bernard Arnault & family** tops with \$211 billion. Second is Elon Musk with \$180 billion net worth.
 
 ---
+
+## Number of Self-Made and Non-Self-Made Billionaires
+
+![alt text](<Graphs/plot 3.png>)
+
+Here from the graph we can see number of self-made billionaire and non self-made billionaire. This graph shows that there are more number of self-made billionaire than non self-made billionaire in world. 
+
+There are 1812 self-made billionaire where as 828 non self-made billionaire.
