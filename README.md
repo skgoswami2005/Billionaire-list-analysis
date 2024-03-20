@@ -1,5 +1,7 @@
 # Billionaire-list-analysis
  
+This is billionaire list data analytics project. Data used for the project is as per Forbes billionaire list 2023.
+
 ## Wealth Distribution by Country:
 
 ![alt text](<Graphs/plot 1.png>)
